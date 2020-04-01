@@ -1,13 +1,3 @@
-// MDB Lightbox Init
-$(function () {
-    $("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
-});
-
-
-
-
-
-
 // Google Analytics
 (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;

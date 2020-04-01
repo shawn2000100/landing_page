@@ -11,14 +11,8 @@ html, body {
     -o-background-size: cover;
     background-position: center;
     background-image: url("../images/banner.jpg");
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-repeat: no-repeat;
-}
-
-@media (max-width: 575px){
-    #banner{
-        background-attachment: scroll;
-    }
 }
 
 #banner-fg {
@@ -52,29 +46,20 @@ html, body {
 }
 
 section {
-    margin-top: 2.5rem;
+    margin-top: 1.5rem;
 }
 
 section h2 {
     margin-bottom: 2rem;
 }
 
-#feature~.row {
-    margin-bottom: 3rem;
-}
-
 .card {
     margin-top: 1rem;
 }
 
-.seal {
-    border: 3px solid #0275d8;
-    border-radius: .3rem;
-}
-
 footer {
-    margin-top: 2.5rem;
+    margin-top: 2rem;
     background-color: #f7f7f7;
-    padding: 2.5rem;
+    padding: 2rem;
     color: gray;
 }
