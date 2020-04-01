@@ -47,12 +47,12 @@ html, body {
 }
 
 .navbar-offset {
-    margin-top: 5rem;
+    margin-top: -5rem;
     padding-top: 5rem;
 }
 
 section {
-    margin-top: 4rem;
+    margin-top: 2.5rem;
 }
 
 section h2 {
@@ -97,8 +97,8 @@ section h2 {
 }
 
 footer {
-    margin-top: 4rem;
+    margin-top: 2.5rem;
     background-color: #f7f7f7;
-    padding: 4rem;
+    padding: 2.5rem;
     color: gray;
 }
