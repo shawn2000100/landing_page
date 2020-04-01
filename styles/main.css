@@ -67,30 +67,6 @@ section h2 {
     margin-top: 1rem;
 }
 
-.rotate-20 {
-    -ms-transform: rotate(20deg);
-    /* IE 9 */
-    -webkit-transform: rotate(20deg);
-    /* Safari */
-    transform: rotate(20deg);
-}
-
-.rotate-340 {
-    -ms-transform: rotate(340deg);
-    /* IE 9 */
-    -webkit-transform: rotate(340deg);
-    /* Safari */
-    transform: rotate(340deg);
-}
-
-.rotate-350 {
-    -ms-transform: rotate(350deg);
-    /* IE 9 */
-    -webkit-transform: rotate(350deg);
-    /* Safari */
-    transform: rotate(350deg);
-}
-
 .seal {
     border: 3px solid #0275d8;
     border-radius: .3rem;
